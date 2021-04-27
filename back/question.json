@@ -1,0 +1,22 @@
+{
+    "question": "Whath the result of 10 * 10 ?",
+    "answers": [
+        {
+            "CH1":"is equale 10012",
+            "isCorrect": false
+        },
+        {
+            "CH2":"is equale 1090",
+            "isCorrect": false
+        },
+        {
+            "CH3":"is equale 130",
+            "isCorrect": false
+        },
+        {
+            "CH4":"is equale 100",
+            "isCorrect": true
+        }
+    ],
+    "category": "name"
+}
